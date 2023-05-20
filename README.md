@@ -1,4 +1,5 @@
 To start the project: 
+
    To start the frontend:
     - go to the root repository
     - run `cd client`
