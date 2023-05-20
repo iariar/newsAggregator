@@ -1,0 +1,1006 @@
+{
+  "status": "ok",
+  "totalResults": 22909,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Lifehacker.com" },
+      "author": "Jake Peterson",
+      "title": "You Can Finally Use Final Cut Pro and Logic Pro on Your iPad",
+      "description": "Every once in a while, Apple really surprises me. Today is one of those times: The company just announced is finally bringing Final Cut Pro and Logic Pro to the iPad, and with it, the tools to produce professional videos and music using a touch-screen device.…",
+      "url": "https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0ee8f44afbfa6844936829c893853a6b.jpg",
+      "publishedAt": "2023-05-09T19:00:00Z",
+      "content": "Every once in a while, Apple really surprises me. Today is one of those times: The company just announced is finally bringing Final Cut Pro and Logic Pro to the iPad, and with it, the tools to produc… [+5141 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lifehacker.com" },
+      "author": "Jake Peterson",
+      "title": "This App Makes Your Mac’s Keyboard Sound Vintage",
+      "description": "Typing on a modern Apple keyboard isn’t a silent experience by any means, but it certainly doesn’t compete with a mechanical keyboard. There’s something satisfying about the clicks and clacks produced when typing on one of those specialty keyboards, an experi…",
+      "url": "https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/42e0909b8305d91a881b8ae4179bc6d5.png",
+      "publishedAt": "2023-05-04T20:30:00Z",
+      "content": "Typing on a modern Apple keyboard isnt a silent experience by any means, but it certainly doesnt compete with a mechanical keyboard. Theres something satisfying about the clicks and clacks produced w… [+4064 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lifehacker.com" },
+      "author": "Khamosh Pathak",
+      "title": "Passkeys Are the New Passwords",
+      "description": "Google has made a stride towards a password-free future by integrating passkeys directly into Google Accounts. The change means you no longer need to memorize a strong and unique password to protect your Google data, nor do you need two-factor authentication …",
+      "url": "https://lifehacker.com/passkeys-are-the-new-passwords-1850402666",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f911a4edfad604a7d2668d172f416f4d.png",
+      "publishedAt": "2023-05-04T16:00:00Z",
+      "content": "Google has made a stride towards a password-free future by integrating passkeys directly into Google Accounts. The change means you no longer need to memorize a strong and unique password to protect … [+3259 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Will Shanklin",
+      "title": "Reason's popular DAW finally gets native Apple Silicon support",
+      "description": "Reason Studios (formerly Propellerhead) announced today that Reason, its popular digital audio workstation and plugin suite, now natively runs on Apple M1 / M2 chips. After installing the new Reason 12.6 update, users can skip the slower speeds from Apple’s R…",
+      "url": "https://www.engadget.com/reasons-popular-daw-finally-gets-native-apple-silicon-support-164439189.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/62A_Zqks3P2f7JGN409tfA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/fc2d6d90-e904-11ed-b7fd-73b68760a17b.cf.jpg",
+      "publishedAt": "2023-05-02T16:44:39Z",
+      "content": "Reason Studios (formerly Propellerhead) announced today that Reason, its popular digital audio workstation and plugin suite, now natively runs on Apple M1 / M2 chips. After installing the new Reason … [+1701 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "House lawmakers ask for investigation into Apple store labor practices",
+      "description": "Apple is facing additional scrutiny over its alleged crackdown against pro-union retail workers. House Representatives Emanuel Cleaver and Sylvia Garcia have sent a letter to the National Labor Relations Board (NLRB) asking for an investigation into alleged l…",
+      "url": "https://www.engadget.com/house-lawmakers-ask-for-investigation-into-apple-store-labor-practices-195248699.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/weGd5hVpNQ62iwyl.dAlwg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/6fd025a0-eaac-11ed-bbef-77c579fca6b6.cf.jpg",
+      "publishedAt": "2023-05-04T19:52:48Z",
+      "content": "Apple is facing additional scrutiny over its alleged crackdown against pro-union retail workers. House Representatives Emanuel Cleaver and Sylvia Garcia have sent a letter to the National Labor Relat… [+1666 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Apple Watch Series 9 may finally get a new processor",
+      "description": "The Apple Watch has effectively used the same processor since the S6 inside 2020's Series 6, but it's apparently poised for a long-due upgrade. Bloomberg's Mark Gurman tells subscribers in his newsletter Discord channel that Apple Watch Series 9 will reported…",
+      "url": "https://www.engadget.com/apple-watch-series-9-may-finally-get-a-new-processor-151516259.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ovCEHeO.oc9YDmz.wbsKUQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/398c6da0-ee67-11ed-bfa7-872a4ff5351c.cf.jpg",
+      "publishedAt": "2023-05-09T15:15:16Z",
+      "content": "The Apple Watch has effectively used the same processor since the S6 inside 2020's Series 6, but it's apparently poised for a long-due upgrade. Bloomberg's Mark Gurman tells subscribers in his newsle… [+1330 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Kris Holt",
+      "title": "Apple and Google team up to tackle Bluetooth tracker stalking",
+      "description": "Apple and Google have announced a partnership to tackle the issue of unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat the misuse of Bluetooth location-tracking devices for unwanted…",
+      "url": "https://www.engadget.com/apple-and-google-team-up-to-tackle-bluetooth-tracker-stalking-140516646.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/U7yMXE8bAksHmpB6IdXA.A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-05/a6e1eeb0-cc4f-11ec-bef9-3ebebcb882f8.cf.jpg",
+      "publishedAt": "2023-05-02T14:05:16Z",
+      "content": "Apple and Google have announced a partnership to tackle the issue of unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat th… [+3121 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Facebook Messenger app for Apple Watch is going away after May 31st",
+      "description": "Say goodbye to another high-profile Apple Watch app. As MacRumorsnotes, Meta is telling Facebook Messenger users that the Apple Watch version will be unavailable after May 31st. While you'll still get message notifications beyond that point, you won't have th…",
+      "url": "https://www.engadget.com/facebook-messenger-app-for-apple-watch-is-going-away-after-may-31st-180252947.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/VAmzs9IyeEdG9udz_w8ysg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/0ffe5f40-f01d-11ed-9cfe-ec5349e218a7.cf.jpg",
+      "publishedAt": "2023-05-11T18:02:52Z",
+      "content": "Say goodbye to another high-profile Apple Watch app. As MacRumorsnotes, Meta is telling Facebook Messenger users that the Apple Watch version will be unavailable after May 31st. While you'll still ge… [+1600 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Mat Smith",
+      "title": "The Morning After: Apple and Google team up to combat Bluetooth tracker stalking",
+      "description": "Apple and Google have announced a partnership to tackle unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat the misuse of Bluetooth location-tracking devices for unwanted tracking.\"Ap…",
+      "url": "https://www.engadget.com/the-morning-after-apple-and-google-team-up-to-combat-bluetooth-tracker-stalking-111557628.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4vxnbwtnbuKDO4LHt5KsQA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/94489620-abc7-11ed-b375-842957054bf1.cf.jpg",
+      "publishedAt": "2023-05-03T11:15:57Z",
+      "content": "Apple and Google have announced a partnership to tackle unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat the misuse of B… [+3417 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Amy Skorheim",
+      "title": "The second-gen Apple Pencil returns to its lowest price ever",
+      "description": "The Apple Pencil has dropped back down to $89 at Amazon and Best Buy, which is a 31 percent savings over the usual $129 list price. It's the lowest the stylus has sold for since its debut, though we've seen it drop this low a few timesbefore. It's also on sal…",
+      "url": "https://www.engadget.com/the-second-gen-apple-pencil-returns-to-its-lowest-price-ever-163705136.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/GzH79yDoOxQuKr_0eSlhSg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-03/548fd670-a47e-11ec-b9ef-ef1d74d381f2.cf.jpg",
+      "publishedAt": "2023-05-01T16:37:05Z",
+      "content": "The Apple Pencil has dropped back down to $89 at Amazon and Best Buy, which is a 31 percent savings over the usual $129 list price. It's the lowest the stylus has sold for since its debut, though we'… [+1360 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Steve Dent",
+      "title": "Apple's 2nd-generation HomePod speaker gets its first discount",
+      "description": "The original HomePod arrived in 2018 and was discontinued in favor of the $99 HomePod Mini in 2021, but Apple brought it back earlier this year as a second generation model with upgraded audio and new smart home tools. Now, it's on sale for the first time at …",
+      "url": "https://www.engadget.com/apples-2nd-generation-homepod-speaker-gets-its-first-discount-105536878.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xx82NeVCd05gvKDUkky4dw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/69adbd20-efe0-11ed-bad3-ca5ff7fe31c5.cf.jpg",
+      "publishedAt": "2023-05-11T10:55:36Z",
+      "content": "The original HomePod arrived in 2018 and was discontinued in favor of the $99 HomePod Mini in 2021, but Apple brought it back earlier this year as a second generation model with upgraded audio and ne… [+1662 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Apple is bringing Final Cut Pro and Logic Pro to iPad on May 23rd",
+      "description": "Apple finally has professional creative software to match the iPad Pro. The company is releasing both Final Cut Pro and Logic Pro for iPad on May 23rd. The two tablet apps now feature a touch-friendly interface and other iPad-specific improvements, such as Pe…",
+      "url": "https://www.engadget.com/apple-is-bringing-final-cut-pro-and-logic-pro-to-ipad-on-may-23rd-132957320.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/IXZoSs7FAtVXz0QemI7aDQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e6beaac0-ee6b-11ed-9ffb-4d8283171e0e.cf.jpg",
+      "publishedAt": "2023-05-09T13:29:57Z",
+      "content": "Apple finally has professional creative software to match the iPad Pro. The company is releasing both Final Cut Pro and Logic Pro for iPad on May 23rd. The two tablet apps now feature a touch-friendl… [+1951 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "The best apps and services for new graduates",
+      "description": "New grads can easily find themselves overwhelmed by the responsibilities of post-college life, such as commuting to work, balancing the budget or staying fit. So, maybe skip the gift basket and give them a subscription that helps make adulthood more manageabl…",
+      "url": "https://www.engadget.com/best-apps-and-services-for-new-graduates-130003658.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/K0i80OFPSrcFYyGflV691g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/61d094f0-ee74-11ed-bd1a-a2a0996c3eba.cf.jpg",
+      "publishedAt": "2023-05-11T13:00:03Z",
+      "content": "New grads can easily find themselves overwhelmed by the responsibilities of post-college life, such as commuting to work, balancing the budget or staying fit. So, maybe skip the gift basket and give … [+9205 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Nathan Ingraham",
+      "title": "Strong iPhone sales aren't enough to offset a big downturn in Mac shipments",
+      "description": "Apple had its second \"bad\" quarter in a row. Bad, of course, is a relative term — the company's revenues declined again, but Apple is still making a positively massive amount of money. Specifically, the iPhone and Services categories, both of which have been …",
+      "url": "https://www.engadget.com/strong-iphone-sales-arent-enough-to-offset-a-big-downturn-in-mac-shipments-210358753.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/rNhAZItzurTq1M0_ZIvbxw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/d36d60c0-eabe-11ed-bebf-33c0487849cc.cf.jpg",
+      "publishedAt": "2023-05-04T21:03:58Z",
+      "content": "Apple had its second \"bad\" quarter in a row. Bad, of course, is a relative term the company's revenues declined again, but Apple is still making a positively massive amount of money. Specifically, th… [+2302 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jeff Dunn",
+      "title": "The second-gen Apple Pencil drops to $89, plus the rest of the week's best tech deals",
+      "description": "It's Friday, which means it's time for another roundup of good deals on recommended tech. Among this week's highlights, the second-gen Apple Pencil is back down to an all-time low of $89, while the latest Echo Dot is within $5 of the best price we've tracked …",
+      "url": "https://www.engadget.com/the-second-gen-apple-pencil-drops-to-89-plus-the-rest-of-the-weeks-best-tech-deals-163008694.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/m6QFftyOmVu_B5ACLV4_bg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-10/8a69ab00-53aa-11ed-88df-2d4f636697db.cf.jpg",
+      "publishedAt": "2023-05-05T16:30:08Z",
+      "content": "It's Friday, which means it's time for another roundup of good deals on recommended tech. Among this week's highlights, the second-gen Apple Pencil is back down to an all-time low of $89, while the l… [+11276 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Amy Skorheim",
+      "title": "How to connect AirPods to your MacBook",
+      "description": "The same noise-canceling ability and overall clarity that make AirPods a good match for iOS, also make the buds well-suited for video chats and casual listening while you work on your laptop. AirPods are designed to pair automatically with your iPhone, but pa…",
+      "url": "https://www.engadget.com/how-to-connect-airpods-to-macbook-120059919.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/h68Eb8EbAzUi9b5ayY8nfQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e4930ae0-eb7b-11ed-b81f-508aa8bde1dc.cf.jpg",
+      "publishedAt": "2023-05-11T12:30:59Z",
+      "content": "The same noise-canceling ability and overall clarity that make AirPods a good match for iOS, also make the buds well-suited for video chats and casual listening while you work on your laptop. AirPods… [+2355 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Tinder's parent company is leaving Russia over a year after the Ukraine invasion",
+      "description": "Tech companies are still withdrawing from Russia more than a year after the country invaded Ukraine. Tinder owner Match Group has revealed that it will completely withdraw its dating app brands from the Russian market by the end of June. The firm says it's \"c…",
+      "url": "https://www.engadget.com/tinders-parent-company-is-leaving-russia-over-a-year-after-the-ukraine-invasion-141504660.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8FSiY3PL6EHCKNX_Hqy8Lg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-03/404a1d70-8665-11eb-b5e2-0db978356e27.cf.jpg",
+      "publishedAt": "2023-05-02T14:15:04Z",
+      "content": "Tech companies are still withdrawing from Russia more than a year after the country invaded Ukraine. Tinder owner Match Group has revealed that it will completely withdraw its dating app brands from … [+1237 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Google will reportedly release Pixel Watch 2 this fall",
+      "description": "Google may have taken years to ship the first Pixel Watch, but it might not take nearly so long to introduce a sequel. A 9to5Googlesource claims the company will release the Pixel Watch 2 this fall alongside the Pixel 8 phone family this fall. Details are sca…",
+      "url": "https://www.engadget.com/google-will-reportedly-release-pixel-watch-2-this-fall-213015367.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9m2KURJP.CwEJHZHE1GGXw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e1d4b7c0-eb87-11ed-b77b-f6fd8762039d.cf.jpg",
+      "publishedAt": "2023-05-05T21:30:15Z",
+      "content": "Google may have taken years to ship the first Pixel Watch, but it might not take nearly so long to introduce a sequel. A 9to5Googlesource claims the company will release the Pixel Watch 2 this fall a… [+1440 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Steve Dent",
+      "title": "Apple's iPad mini is back on sale for $400",
+      "description": "With an excellent blend of power and portability, Apple's 2021 iPad Mini tablet is a popular choice — but at $500, it's not exactly an impulse buy. If you've been waiting for a deal, the 64GB model is now on sale at Amazon and Target for $400 ($99 off) in fou…",
+      "url": "https://www.engadget.com/apples-ipad-mini-is-back-on-sale-for-400-124717156.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Xpk5_UMfIb3p_iUZSbnpxQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/aa39d350-e8e3-11ed-bfbb-aec6fa826110.cf.jpg",
+      "publishedAt": "2023-05-02T12:47:17Z",
+      "content": "With an excellent blend of power and portability, Apple's 2021 iPad Mini tablet is a popular choice but at $500, it's not exactly an impulse buy. If you've been waiting for a deal, the 64GB model is … [+1526 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Jon Fingas",
+      "title": "Amazon's May the 4th sale includes a 'Mandalorian' Echo Dot",
+      "description": "Amazon is running a Star Wars sale to capitalize on May the 4th, and that includes bargains on themed tech. The retailer is offering a bundle that combines the fifth-generation Echo Dot with a The Mandalorian Grogu stand for $55, or $23 off. This deal applies…",
+      "url": "https://www.engadget.com/amazons-may-the-4th-sale-includes-a-mandalorian-echo-dot-135519927.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/FC9EZ5kt_XPelfS6oahxtg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/5d117140-ea79-11ed-84ff-548a1dd12322.cf.jpg",
+      "publishedAt": "2023-05-04T13:55:19Z",
+      "content": "Amazon is running a Star Wars sale to capitalize on May the 4th, and that includes bargains on themed tech. The retailer is offering a bundle that combines the fifth-generation Echo Dot with a The Ma… [+1295 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Kris Holt",
+      "title": "Spotify has reportedly removed tens of thousands of AI-generated songs",
+      "description": "Spotify\r\n has reportedly pulled tens of thousands of tracks from generative AI company Boomy\r\n. It's said to have removed seven percent of the songs created by the startup's systems, which underscores the swift proliferation of AI-generated content on music s…",
+      "url": "https://www.engadget.com/spotify-has-reportedly-removed-tens-of-thousands-of-ai-generated-songs-154144262.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hA0S1Dkhh6lmk.c14Rprew--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-12/3a396470-5f8d-11ec-b6ee-4633ccc47b24.cf.jpg",
+      "publishedAt": "2023-05-09T15:41:44Z",
+      "content": "Spotify\r\n has reportedly pulled tens of thousands of tracks from generative AI company Boomy\r\n. It's said to have removed seven percent of the songs created by the startup's systems, which underscore… [+2303 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Kate Knibbs",
+      "title": "With 'Silo,' Apple TV+ Strikes Prestige Sci-Fi Gold",
+      "description": "The long-gestating adaptation of Hugh Howey’s book series was worth the wait.",
+      "url": "https://www.wired.com/story/silo-apple-tv-plus-review/",
+      "urlToImage": "https://media.wired.com/photos/645a8d4893ba5cd8bbdc93d0/191:100/w_1280,c_limit/Silo-Review-Culture.jpg",
+      "publishedAt": "2023-05-10T13:00:00Z",
+      "content": "The first two episodes introduce viewers to the shows subterranean universe through the eyes of Sheriff Holston Becker (David Oyelowo) and his wife, Allison (Rashida Jones). Theyre happily living wit… [+3922 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Angela Watercutter",
+      "title": "AI, the WGA Strike, and What Luddites Got Right",
+      "description": "English textile workers once destroyed the machines threatening to take their jobs. Screenwriters can’t kill AI, but they can protect themselves from it.",
+      "url": "https://www.wired.com/story/wga-strike-artificial-intelligence-luddites/",
+      "urlToImage": "https://media.wired.com/photos/645426f23d9e6b1cb17a86fa/191:100/w_1280,c_limit/WGA-Strike-The-Monitor-Culture-GettyImages-1252544261.jpg",
+      "publishedAt": "2023-05-05T13:00:00Z",
+      "content": "The Monitor is aweekly columndevoted to everything happening in the WIRED world of culture, from movies to memes, TV to Twitter.\r\nEarlier this week, on the red (technically striped) carpet of the Met… [+2864 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Amanda Hoover",
+      "title": "Spotify Has an AI Music Problem—but Bots Love It",
+      "description": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
+      "url": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
+      "urlToImage": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/191:100/w_1280,c_limit/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
+      "publishedAt": "2023-05-11T15:08:13Z",
+      "content": "If a song is created by artificial intelligence and listened to by a bot, was it even heard at all? Its a problem music streaming companies now face as generative AI is rapidly making it easier for a… [+3058 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Steven Levy",
+      "title": "Gary Marcus Used to Call AI Stupid—Now He Calls It Dangerous",
+      "description": "The former professor's calls for more control over AI have made him a media darling of the ChatGPT era. Some top researchers aren't impressed.",
+      "url": "https://www.wired.com/story/plaintext-gary-marcus-ai-stupid-dangerous/",
+      "urlToImage": "https://media.wired.com/photos/645420319a01d944fee35d7b/191:100/w_1280,c_limit/GettyImages-1439004937.jpg",
+      "publishedAt": "2023-05-05T13:00:00Z",
+      "content": "Back thenonly months agoMarcus quibbling was technical. But now that large language models have become a global phenomenon, his focus has shifted. The crux of Marcus new message is that the chatbots … [+3376 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Rhett Allain",
+      "title": "What Do a Falling Apple and an Orbiting Moon Have in Common?",
+      "description": "Isaac Newton connected the two motions in a way that revolutionized physics and made space travel possible.",
+      "url": "https://www.wired.com/story/what-do-a-falling-apple-and-an-orbiting-moon-have-in-common/",
+      "urlToImage": "https://media.wired.com/photos/645d2ed29e47b5e53e89ccdc/191:100/w_1280,c_limit/apple_falling_rhett_science_GettyImages-BC0031-001.jpg",
+      "publishedAt": "2023-05-12T13:00:00Z",
+      "content": "If you drop an object, it will fall. It's a motion that weve all seen hundreds of times. Weve also all seen plenty of the moon, which makes one complete orbit around our planet every 27.3 days (as se… [+2960 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Steven Levy",
+      "title": "You’re Probably Underestimating AI Chatbots",
+      "description": "Just as the first iPhone reviews mostly missed the device’s huge potential, it’s folly to draw conclusions from today’s unrefined technology.",
+      "url": "https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/",
+      "urlToImage": "https://media.wired.com/photos/645d37c10227ed23db8041a9/191:100/w_1280,c_limit/AI_biz_GettyImages-1372009287.jpg",
+      "publishedAt": "2023-05-12T13:00:00Z",
+      "content": "In the spring of 2007, I was one of four journalists anointed by Steve Jobs to review the iPhone. This was probably the most anticipated product in the history of tech. What would it be like? Was it … [+3748 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Apple Arcade launches 20 new games, including a new TMNT roguelike",
+      "description": "Apple Arcade is getting 20 new games, and that includes the exclusive launch of the TMNT Splintered Fate, a co-op roguelike.",
+      "url": "https://www.theverge.com/2023/5/4/23710913/apple-arcade-new-games-tmnt",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VK0_y7zWu6g_m5sWV4wVzI4gk-s=/0x0:1960x1102/1200x628/filters:focal(980x551:981x552)/cdn.vox-cdn.com/uploads/chorus_asset/file/24632244/Apple_Arcade_new_games_hero.jpg",
+      "publishedAt": "2023-05-04T14:03:26Z",
+      "content": "Image: Apple\r\n\n \n\n Apple Arcade is getting 20 new games, and that includes the exclusive launch of a Teenage Mutant Ninja Turtle roguelike.\nThe game, called TMNT Splintered Fate, is a top-down co-op … [+1400 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Apple launches Final Cut Pro and Logic Pro on iPad with new subscription pricing",
+      "description": "Apple announced new iPad versions of Final Cut Pro and Logic Pro. Its video and audio editing apps cost hundreds of dollars on the Mac, but the iPad versions are available via subscriptions for either $4.99 per month or $49 annually.",
+      "url": "https://www.theverge.com/2023/5/9/23716679/apple-final-cut-pro-logic-ipad-subscription-price-apps",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rMjm59Kx5HQxu6iVuHvfdiMEt0k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24402140/STK071_apple_K_Radtke_02.jpg",
+      "publishedAt": "2023-05-09T13:14:36Z",
+      "content": "Apple launches Final Cut Pro and Logic Pro on iPad with new subscription pricing\r\nApple launches Final Cut Pro and Logic Pro on iPad with new subscription pricing\r\n / On the iPad, Apples editing apps… [+1309 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Antonio G. Di Benedetto",
+      "title": "The second-gen Apple Pencil returns to its best price of $89",
+      "description": "The first-gen Pencil is also on sale. And so are the Eero Pro 6E mesh Wi-Fi router, a one- or three-month subscription to Xbox Game Pass Ultimate, Seagate’s Storage Expansion Cards for Xbox Series X / S consoles, and more.",
+      "url": "https://www.theverge.com/2023/5/1/23706384/apple-pencil-eero-pro-6e-xbox-game-pass-seagate-expansion-ssd-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/f_ag_o51nYaTg6kAczVH93EzX7U=/0x0:1856x1232/1200x628/filters:focal(744x580:745x581)/cdn.vox-cdn.com/uploads/chorus_asset/file/22964077/Screen_Shot_2021_10_28_at_12.02.42_PM.png",
+      "publishedAt": "2023-05-01T15:40:41Z",
+      "content": "The second-gen Apple Pencil returns to its best price of $89\r\nThe second-gen Apple Pencil returns to its best price of $89\r\n / A knockoff is cheaper, but the real deal Pencil is much more convenient … [+5225 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Chris Welch",
+      "title": "Apple’s latest earnings show the Mac slumping and services soaring",
+      "description": "Apple’s second quarter fiscal earnings showed a continued slump for Mac sales, but the company reported a new March quarter record for iPhone revenue and an all-time high for the services unit.",
+      "url": "https://www.theverge.com/2023/5/4/23711640/apple-q2-2023-earnings-iphone-services-mac",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pHJGrXbchz6Wwbrs4JX4KBqouR0=/0x0:2040x1360/1200x628/filters:focal(1146x620:1147x621)/cdn.vox-cdn.com/uploads/chorus_asset/file/23759758/bfarsace_190101_5333_0005.jpg",
+      "publishedAt": "2023-05-04T21:02:53Z",
+      "content": "Apples latest earnings show the Mac slumping and services soaring\r\nApples latest earnings show the Mac slumping and services soaring\r\n / Services hit an all-time revenue high (again), and the iPhone … [+2596 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "‘PlugwalkJoe’ pleads guilty for the massive 2020 Twitter hack and other crimes",
+      "description": "PlugwalkJoe, aka Joseph James O’Connor, a UK citizen connected to the 2020 Twitter hack affecting many high-profile accounts, has pled guilty to cyberstalking and other crimes.",
+      "url": "https://www.theverge.com/2023/5/9/23717558/plugwalkjoe-pleads-guilty-twitter-hack-other-crimes-tiktok",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/drbaTsgNPxqzrT5M0V6vKOE49Ug=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926010/acastro_STK050_01.jpg",
+      "publishedAt": "2023-05-09T21:57:19Z",
+      "content": "PlugwalkJoe pleads guilty for the massive 2020 Twitter hack and other crimes\r\nPlugwalkJoe pleads guilty for the massive 2020 Twitter hack and other crimes\r\n / The hack compromised numerous high-profi… [+1865 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Alex Heath",
+      "title": "TikTok’s head of US trust and safety is leaving",
+      "description": "Eric Han, TikTok’s head of US trust and safety and a key leader for the company’s USDS proposal to avoid a ban by the US government, is leaving this month, according to an internal company memo.",
+      "url": "https://www.theverge.com/2023/5/2/23708534/tiktok-head-of-us-trust-and-safety-eric-han-leaves-company",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eK1xpiuyrd9PhE0P4nlhSSDAJI8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/21694346/acastro_200803_1777_tikTok_0001.0.jpg",
+      "publishedAt": "2023-05-02T20:30:51Z",
+      "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n TikTok’s head of trust and safety for the US, Eric Han, is leaving the company on May 12th, according to two people familiar with the matter and an inter… [+2828 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Allison Johnson",
+      "title": "Six months later, the iPhone 14 Pro is everything I love and hate about phones",
+      "description": "Apple’s iPhone 14 Pro is getting more useful with more third-party Live Activities support that puts more info in the Dynamic Island and on the always-on display. More of this, please.",
+      "url": "https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vgSaK_qIH3ZIODqBdGjyPe1UnfM=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24633571/DSC04602_processed.jpg",
+      "publishedAt": "2023-05-05T14:00:00Z",
+      "content": "Apple’s Live Activities and always-on display are a showcase for what our phones could be. | Photo by Allison Johnson / The Verge\r\n\n \n\n\n The always-on display, Live Activities, and Dynamic Island tea… [+7361 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jess Weatherbed",
+      "title": "Hollywood writers are striking over low wages caused by streaming boom",
+      "description": "The Writers Guild of America (WGA) voted unanimously to strike for the first time in 15 years on Tuesday after contract negotiations with the major Hollywood studios collapsed.",
+      "url": "https://www.theverge.com/2023/5/2/23707813/wga-hollywood-writers-strike-2023-streaming-ai-wages-contract",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/p6E1NK7YVHpV4xFoEm1SEKxOBDk=/0x0:3000x1780/1200x628/filters:focal(1500x890:1501x891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24626887/78131376.jpg",
+      "publishedAt": "2023-05-02T11:30:14Z",
+      "content": "The 2007 writers' strike (pictured above) lost California an estimated $2.1 billion and was credited with tipping the state into a recession. | Photo by Stephen Chernin/Getty Images\r\n\n \n\n As of today… [+5162 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "The new Google Home app is finally here",
+      "description": "Google launched its redesigned Home app at Google I/O this week, showing off a host of new features designed to make controlling your smart home simpler.",
+      "url": "https://www.theverge.com/2023/5/10/23717404/google-home-app-release-date-features-matter-io",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/X0bij8M8eVsPbE0qnKJfA4Mj0dI=/0x0:4000x2250/1200x628/filters:focal(2000x1125:2001x1126)/cdn.vox-cdn.com/uploads/chorus_asset/file/24645325/GHA_5_Tab_Layout.png",
+      "publishedAt": "2023-05-10T18:55:30Z",
+      "content": "The new Google Home app is a complete redesign of the smart home controller. | Image: Google\r\n\n \n\n\n A much-needed update brings greater control and customizability. Plus, Google updates its iOS app t… [+12873 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Patrick George",
+      "title": "Hyundai Ioniq 6 review: a Tesla Model 3 fighter with art deco style",
+      "description": "The 2023 Hyundai Ioniq 6 is a sleek, stylish electric sedan that is likely the best direct competitor to the Tesla Model 3. And with a range of up to 361 miles, the Ioniq 6 can also outlast Elon Musk’s mass-market sedan on the road.",
+      "url": "https://www.theverge.com/23702900/hyundai-ioniq-6-review-ev-specs-photos-price",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LfFh9s2tOCyMRm3m7WSR9Rm-NPU=/0x0:2400x1600/1200x628/filters:focal(1200x800:1201x801)/cdn.vox-cdn.com/uploads/chorus_asset/file/24625837/236637_Hyundai_Ioniq_6_PGeorge_0024.jpg",
+      "publishedAt": "2023-05-02T12:00:00Z",
+      "content": "Photo by Patrick George for The Verge\r\n\n \n\n\n The Ioniq 6 looks more interesting than it drives. That’s not a bad thing. The greatest trick Tesla ever pulled was convincing the world that electric veh… [+14183 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Casey Newton",
+      "title": "How Google is making up for lost time",
+      "description": "At Google I/O 2023, the company showed how it’s finally bringing AI to the places that matter: Search, Docs, Slides, and more services we already use.",
+      "url": "https://www.theverge.com/2023/5/12/23721037/google-ai-progress-search-docs-starline-video-calls",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gnBLqI0EzeruySPPaVzHMd-hSaA=/0x0:3601x2401/1200x628/filters:focal(1145x960:1146x961)/cdn.vox-cdn.com/uploads/chorus_asset/file/24649939/DSC00168_edit.jpg",
+      "publishedAt": "2023-05-12T13:30:00Z",
+      "content": "How Google is making up for lost time\r\nHow Google is making up for lost time\r\n / The company is finally bringing AI to the places that matter\r\nByCasey Newton, a contributing editor who has been writi… [+10272 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Nikki Main",
+      "title": "Apple Watch Users, Say Goodbye to Facebook Messenger",
+      "description": "Meta’s Messenger app is disappearing from the Apple Watch beginning May 31 although users will still be able to see incoming messages. The app’s removal means that users will no longer be able to respond to Facebook messages on their watch and will instead ne…",
+      "url": "https://gizmodo.com/apple-watch-facebook-messenger-iphone-whatsapp-1850429606",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f679aac940036e68549af2a3b0630eb9.jpg",
+      "publishedAt": "2023-05-11T19:35:00Z",
+      "content": "Metas Messenger app is disappearing from the Apple Watch beginning May 31 although users will still be able to see incoming messages. The apps removal means that users will no longer be able to respo… [+2353 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Apple Sending OG iPad Air to Gadget Heaven",
+      "description": "Apple is finally ready to put down two of its venerable and well loved products: the old-school Thunderbolt display and the first generation of the iPad Air. It’s been a good and unusually long run, but soon users won’t be able to look to Apple for any fixes …",
+      "url": "https://gizmodo.com/apple-ipad-air-original-obsolete-thunderbolt-display-1850399492",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8cd46739038206fd5c161fe9de7160f0.jpg",
+      "publishedAt": "2023-05-03T19:15:00Z",
+      "content": "Apple is finally ready to put down two of its venerable and well loved products: the old-school Thunderbolt display and the first generation of the iPad Air. Its been a good and unusually long run, b… [+2719 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Florence Ion and Kyle Barr",
+      "title": "What to Expect at Apple's WWDC 2023",
+      "description": "It’s springtime in the tech world, so birds are singing, flowers are blooming, and the Apple campus is getting ready for its annual developer conference. WWDC 2023 is happening June 5 at Apple’s spaceship HQ in Cupertino. Following this month’s Google I/O, WW…",
+      "url": "https://gizmodo.com/apple-wwdc-2023-ios-mac-ipad-vr-headset-iphone-m3-chip-1850387712",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41b310c9681d8b6a2da6c599637e114f.png",
+      "publishedAt": "2023-05-08T17:20:00Z",
+      "content": "Its springtime in the tech world, so birds are singing, flowers are blooming, and the Apple campus is getting ready for its annual developer conference. WWDC 2023 is happening June 5 at Apples spaces… [+8280 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "2024 Could Bring Us The Largest iPhone Yet",
+      "description": "The iPhone 15 hasn’t even been officially announced, and yet the iPhone 16 hype train is already pulling out of the station. According to display supply chain consultant Ross Young, we could be set to see the largest iPhone yet with the “Ultra” version of the…",
+      "url": "https://gizmodo.com/iphone-16-screen-display-size-rumors-leaks-15-pro-ultra-1850419656",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb9d94e543e112e309ecc259b7763afd.jpg",
+      "publishedAt": "2023-05-09T19:30:00Z",
+      "content": "The iPhone 15 hasnt even been officially announced, and yet the iPhone 16 hype train is already pulling out of the station. According to display supply chain consultant Ross Young, we could be set to… [+2425 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Andrew Liszewski",
+      "title": "Apple's Professional Video and Audio Editing Apps Are Finally Available for the iPad",
+      "description": "Although it started life as a media consumption device, Apple continues to reposition its iPad as a genuine productivity platform by bringing two of the companies most powerful software tools: Final Cut Pro and Logic Pro, to iPadOS later this month.Read more.…",
+      "url": "https://gizmodo.com/apple-final-cut-pro-logic-ipad-version-subscription-vid-1850418816",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4b152024de11f8dd31cf97490bb04a2f.jpg",
+      "publishedAt": "2023-05-09T15:20:00Z",
+      "content": "Although it started life as a media consumption device, Apple continues to reposition its iPad as a genuine productivity platform by bringing two of the companies most powerful software tools: Final … [+3827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Lauren Leffer",
+      "title": "NYPD to Hand Out 500 Free AirTags as Car Thefts Rise",
+      "description": "Amid a spike in carjackings, New York City is trying out a novel strategy for tackling theft: Apple Airtags. Mayor Eric Adams and the police department announced that officials would be distributing 500 of the trackers to vehicle owners in the city during a p…",
+      "url": "https://gizmodo.com/apple-airtags-nypd-tiktok-stop-car-thefts-eric-adams-1850390957",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8db28183c80b1a394192e8a1add36864.png",
+      "publishedAt": "2023-05-01T17:12:00Z",
+      "content": "Amid a spike in carjackings, New York City is trying out a novel strategy for tackling theft: Apple Airtags. Mayor Eric Adams and the police department announced that officials would be distributing … [+4929 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Rumors Point to Google Biting Off Apple's AirTag",
+      "description": "The pre-Google I/O rumor mill is turning faster on the lead up to May 10, and there’s now more than a few leaks pointing to Google finally taking its own dive into AirTag territory. Still, it remains unclear whether Google could have its own Bluetooth tracker…",
+      "url": "https://gizmodo.com/apple-airtag-google-find-my-bluetooth-tracker-tile-eufy-1850404479",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/085e50b0fc7f60e2390eeb68d64174f6.jpg",
+      "publishedAt": "2023-05-04T17:50:00Z",
+      "content": "The pre-Google I/O rumor mill is turning faster on the lead up to May 10, and theres now more than a few leaks pointing to Google finally taking its own dive into AirTag territory. Still, it remains … [+3601 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "David Nield",
+      "title": "How to Make ChatGPT Your New Siri",
+      "description": "It’s been quite a few months for ChatGPT: The AI chatbot has gone from relative obscurity to powering web searches and passing medical exams and plenty more besides, and it’s only going to get more powerful from this point on. All of which might leave you won…",
+      "url": "https://gizmodo.com/chatgpt-digital-assistant-ios-android-siri-google-iphon-1850344786",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c4bbc83c8f5e938a4ab11cdab9af159e.jpg",
+      "publishedAt": "2023-05-01T19:25:00Z",
+      "content": "Its been quite a few months for ChatGPT: The AI chatbot has gone from relative obscurity to powering web searches and passing medical exams and plenty more besides, and its only going to get more pow… [+5553 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Judge Tells Jack Dorsey’s Block It’s Allowed to Make ‘Terrible’ Decisions Like Buying Tidal",
+      "description": "The courts have reaffirmed big tech businesses’ rights to be incredibly bullheaded, braindead, erroneous, and just plain old dumb, as long as they at least think they’re making the right move. That’s good news for Jack Dorsey and his fintech company Block, wh…",
+      "url": "https://gizmodo.com/jack-dorsey-block-tidal-jay-z-music-streaming-1850423469",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/60d61f05fdb29e4981ec7cbf7967e224.jpg",
+      "publishedAt": "2023-05-10T14:45:42Z",
+      "content": "The courts have reaffirmed big tech businesses rights to be incredibly bullheaded, braindead, erroneous, and just plain old dumb, as long as they at least think theyre making the right move. Thats go… [+3226 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Passant Rabie",
+      "title": "Guardians of the Galaxy 3 and Microsoft Are Giving the Zune a Comeback in Space",
+      "description": "The Zune, Microsoft’s failed digital music player from the early 2000s, is getting a second chance on board the International Space Station (ISS), after performing cameos in Guardians of the Galaxy 2 and other Marvel movies. Microsoft and its collaborators ar…",
+      "url": "https://gizmodo.com/guardians-galaxy-microsoft-build-zune-iss-1850403602",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3dd053d0baaa156bef5d49ea228beec2.gif",
+      "publishedAt": "2023-05-04T20:30:00Z",
+      "content": "The Zune, Microsofts failed digital music player from the early 2000s, is getting a second chance on board the International Space Station (ISS), after performing cameos in Guardians of the Galaxy 2 … [+3448 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Unionised US Apple Store proposes asking for tips",
+      "description": "The backlash to the proposal has been swift with many complaining of \"tipping fatigue\" in America.",
+      "url": "https://www.bbc.co.uk/news/65503170",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+      "publishedAt": "2023-05-05T21:33:36Z",
+      "content": "Imagine this: You've shattered your iPhone's screen for the second time and rushed to your nearest Apple Store to have it repaired. \r\nThe team at Apple's Genius Bar hands you your phone back within h… [+3317 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Apple co-founder says AI may make scams harder to spot",
+      "description": "Silicon Valley veteran tells the BBC he thinks AI creations should be clearly labelled.",
+      "url": "https://www.bbc.co.uk/news/technology-65496150",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg",
+      "publishedAt": "2023-05-08T23:00:06Z",
+      "content": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. \r\nMr Wozniak says he fears the technology will be harnessed by \"bad a… [+2337 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Samuel Axon",
+      "title": "Apple and Google introduce standard to combat AirTag and Tile tracker misuse",
+      "description": "Tracker-makers will chime in over the coming months to finalize the standard.",
+      "url": "https://arstechnica.com/gadgets/2023/05/apple-and-google-submit-joint-proposal-to-fight-malicious-use-of-tracking-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-760x380.png",
+      "publishedAt": "2023-05-02T21:21:30Z",
+      "content": "11 with \r\n<ul><li>\r\n</li><li>\r\n The other side of Apple's AirTag. \r\n</li><li>\r\n AirTags also come in packs of four for $99. \r\n</li><li>\r\n An AirTag with a loop accessory. \r\n</li><li>\r\n An AirTag with… [+2330 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Chuong Nguyen",
+      "title": "Dealmaster: Big savings on last-minute Mother’s Day tech gifts",
+      "description": "Deals on air fryers to electric toothbrushes, wearables to tablets, and more.",
+      "url": "https://arstechnica.com/gadgets/2023/05/dealmaster-big-savings-on-last-minute-mothers-day-tech-gifts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/kindle1-760x380.jpg",
+      "publishedAt": "2023-05-12T13:17:50Z",
+      "content": "Enlarge/ Amazon's entry-level Kindle doesn't have all the features of the pricier Kindle Paperwhite, but it's a good choice for those who want a quality e-reader for as little money as possible.\r\n3 w… [+3403 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Jennifer Ouellette",
+      "title": "Lee Pace’s Brother Day is front and center in first teaser for Foundation S2",
+      "description": "\"Rejoice his shame remains unknown that he had almost sat a throne.\"",
+      "url": "https://arstechnica.com/gaming/2023/05/lee-paces-brother-day-is-front-and-center-in-first-teaser-for-foundation-s2/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/found3-760x380.jpg",
+      "publishedAt": "2023-05-11T17:43:43Z",
+      "content": "20 with \r\nApple TV+ has dropped a teaser for the second season of its epic sci-fi series, Foundation.\r\nIt has been too long since we binged all 10 episodes of Apple TV's 2021 epic sci-fi series Found… [+4189 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "AMERICAS Apple comforts as payrolls loom - Reuters",
+      "description": "AMERICAS Apple comforts as payrolls loom  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvdXMvZ2xvYmFsLW1hcmtldHMtdmlldy11c2EtcGl4LWdyYXBoaWMtMjAyMy0wNS0wNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-05T10:02:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Morning Bid: Hike and hold, bank angst and Apple - Reuters",
+      "description": "Morning Bid: Hike and hold, bank angst and Apple  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvdXMvZ2xvYmFsLW1hcmtldHMtdmlldy11c2EtMjAyMy0wNS0wNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-04T10:05:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "GM hires former Apple executive Abbott to lead software unit - Reuters",
+      "description": "GM hires former Apple executive Abbott to lead software unit  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL2dtLWhpcmVzLWZvcm1lci1hcHBsZS1leGVjdXRpdmUtYWJib3R0LWxlYWQtc29mdHdhcmUtdW5pdC0yMDIzLTA1LTA5L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-09T13:47:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Apple fights $2 bln London lawsuit for 'throttling' millions of iPhones - Reuters",
+      "description": "Apple fights $2 bln London lawsuit for 'throttling' millions of iPhones  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtZmlnaHRzLTItYmxuLWxvbmRvbi1sYXdzdWl0LXRocm90dGxpbmctbWlsbGlvbnMtaXBob25lcy0yMDIzLTA1LTAyL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-02T12:58:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Apple says patent owner, law firm revealed settlement secrets in ... - Reuters",
+      "description": "Apple says patent owner, law firm revealed settlement secrets in ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2FwcGxlLXNheXMtcGF0ZW50LW93bmVyLWxhdy1maXJtLXJldmVhbGVkLXNldHRsZW1lbnQtc2VjcmV0cy1nb29nbGUtdHJpYWwtMjAyMy0wNS0wNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-04T21:17:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "UK antitrust regulator refused permission to appeal Apple probe ruling - Reuters",
+      "description": "UK antitrust regulator refused permission to appeal Apple probe ruling  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3VrLWFudGl0cnVzdC1yZWd1bGF0b3ItcmVmdXNlZC1wZXJtaXNzaW9uLWFwcGVhbC1hcHBsZS1wcm9iZS1ydWxpbmctMjAyMy0wNS0wMy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-03T13:03:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Apple stakes future growth on emerging markets, starting with India - Reuters",
+      "description": "Apple stakes future growth on emerging markets, starting with India  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtc3Rha2VzLWZ1dHVyZS1ncm93dGgtZW1lcmdpbmctbWFya2V0cy1zdGFydGluZy13aXRoLWluZGlhLTIwMjMtMDUtMDUv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-05T05:53:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Apple supplier Foxconn's Q1 profit falls 56% y/y, worse than forecasts - Reuters",
+      "description": "Apple supplier Foxconn's Q1 profit falls 56% y/y, worse than forecasts  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtc3VwcGxpZXItZm94Y29ubnMtcTEtcHJvZml0LWZhbGxzLTU2LXl5LXdvcnNlLXRoYW4tZm9yZWNhc3RzLTIwMjMtMDUtMTEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-11T06:32:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Google, Apple submit proposal to fight misuse of Bluetooth location ... - Reuters",
+      "description": "Google, Apple submit proposal to fight misuse of Bluetooth location ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZ29vZ2xlLWFwcGxlLXN1Ym1pdC1wcm9wb3NhbC1maWdodC1taXN1c2UtYmx1ZXRvb3RoLWxvY2F0aW9uLXRyYWNraW5nLWRldmljZXMtMjAyMy0wNS0wMi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-02T13:19:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Apple to open first online shop in Vietnam in a push to emerging ... - Reuters",
+      "description": "Apple to open first online shop in Vietnam in a push to emerging ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvYXNpYS9hcHBsZS1vcGVuLWZpcnN0LW9ubGluZS1zaG9wLXZpZXRuYW0tcHVzaC1lbWVyZ2luZy1tYXJrZXQtMjAyMy0wNS0xMi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-12T04:08:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "derrek.lee@futurenet.com (Derrek Lee)",
+      "title": "Google and Apple come together to tackle the AirTag problem",
+      "description": "As unwanted location tracking continues to be a problem, Apple and Google are working together on a solution.",
+      "url": "https://www.androidcentral.com/accessories/google-apple-partner-tackle-unwanted-location-tracking",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PnqzuaD3F497m2A3qJyw6D-1200-80.jpg",
+      "publishedAt": "2023-05-02T17:54:15Z",
+      "content": "<ul><li>Apple and Google have announced a new partnership that aims to address unwanted location tracking.</li><li>The companies have released a draft specification on best practices for companies de… [+2250 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+      "title": "The Amazon Halo failure proves that fitness trackers are in trouble",
+      "description": "Amazon Halo won't be the last fitness brand to shutter, based on how the market has changed and customers have grown tired of trackers.",
+      "url": "https://www.androidcentral.com/wearables/why-amazon-halo-was-destined-to-fail",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JMSfFsY92HLTdnhS2C2QqK-1200-80.jpg",
+      "publishedAt": "2023-05-03T12:00:00Z",
+      "content": "For a big tech brand that answers to shareholders, any product that fails to make an immediate impact and grab a huge market share is a \"failure\" worth killing without mercy. By that criteria, the Am… [+8173 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "Google strengthens 'Find My Device' and will alert users to unknown trackers",
+      "description": "Google addresses improvements coming for its \"Find My Device\" network and further efforts in reducing unwanted tracking.",
+      "url": "https://www.androidcentral.com/apps-software/google-android-security-safety-improvements",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DUbt2gxobj5cL5PB2uvDMV-1200-80.jpg",
+      "publishedAt": "2023-05-11T17:34:58Z",
+      "content": "What you need to know\r\n<ul><li>Google preps new Android security enhancements set to roll in later this summer.</li><li>The Find My Device network is getting improved locator capabilities for devices… [+3601 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "Android's Nearby Share for Windows PCs is spreading to more countries",
+      "description": "Google has begun to roll out Nearby Share for Windows PCs to countries other than the United States.",
+      "url": "https://www.androidcentral.com/apps-software/android-nearby-share-for-windows-pcs-goes-global",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WJhqVyRkkj3p2vnU92WCZS-1200-80.jpg",
+      "publishedAt": "2023-05-08T13:20:23Z",
+      "content": "<ul><li>Google's Nearby Share for Windows PCs is now rolling out to more countries.</li><li>The tool was initially launched exclusively in the United States.</li><li>However, the app is not available… [+2067 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "namerah.saud-fatmi@futurenet.com (Namerah Saud Fatmi)",
+      "title": "Tile Bluetooth trackers review: Oldest in the game, best in the biz",
+      "description": "Whether it's your wallet, car keys, remote control, or the notorious (yet adorable) Mr. Butters, there's a Tile tracker to find them all. Do they work as advertised? Our review puts Tile's Bluetooth trackers to the test to find out.",
+      "url": "https://www.androidcentral.com/accessories/tile-bluetooth-trackers-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ACy5EeDZGs4FQGmdcRaQVi-1200-80.jpg",
+      "publishedAt": "2023-05-07T13:30:25Z",
+      "content": "Remember when Samsung released the Galaxy SmartTag and everyone lost their minds? Apple followed suit, and many were quick to judge the brand for imitating Samsung. The truth of the matter is that Bl… [+12131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "Motorola finally remembered how to make good phones again",
+      "description": "All signs point to Motorola being the comeback kid of 2023, debuting interesting products and meaningful features after so many years of mediocre products.",
+      "url": "https://www.androidcentral.com/phones/motorola-finally-remembered-how-to-make-good-phones-again",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QU22hm9YLUnV7ccXNrNvp8-1200-80.jpg",
+      "publishedAt": "2023-05-03T11:30:00Z",
+      "content": "This time last year, I had completely given up on Motorola. The company that made my very first phone and provided plenty of great devices and memories along the way — Razr, Moto X, Moto Z, Moto 360,… [+6375 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+      "title": "Here’s everything you can buy for the price of a Pixel Fold",
+      "description": "The rumors about the Pixel Fold's price came to fruition, as Google's first foray into the foldable market matches up with Samsung's Galaxy Z Fold 4. But instead of dropping $1,800 on the Pixel Fold, here are a bunch of things that you can buy instead.",
+      "url": "https://www.androidcentral.com/phones/what-to-buy-instead-of-google-pixel-fold",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/m6ApZR9zuEvb55zknYs7h8-1200-80.jpg",
+      "publishedAt": "2023-05-10T21:43:52Z",
+      "content": "One of the biggest complaints with foldable phones is the price tag. These are quite expensive, even with Samsung dropping the price of its foldable phone from about $2,000 down to $1,800 with the Ga… [+6292 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+      "title": "How to use the AI Zepp Coach on your Amazfit smartwatch",
+      "description": "If you're ready to get workout advice from a ChatGPT-esque coach, then Amazfit is the fitness brand for you.",
+      "url": "https://www.androidcentral.com/wearables/how-to-use-amazfit-zepp-coach",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vLdo2yZWdU8CUQQ36W5Qvj-1200-80.jpeg",
+      "publishedAt": "2023-05-06T20:30:06Z",
+      "content": "Plenty of reputable fitness brands rely on inhuman algorithms to recommend how hard to work out or when to rest. Amazfit's Zepp app has similar tools with its PAI data, encouraging you to earn PAI ba… [+3186 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+      "title": "My phone is making me sick and I'm not alone",
+      "description": "Modern smartphone displays might boast smooth refresh rates and stunning colors and brightness, but one deep dark secret is making many users sick to their stomachs.",
+      "url": "https://www.androidcentral.com/phones/my-phone-is-making-me-sick-and-im-not-alone",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qzeDirAoCyyKND95gajrgn-1200-80.jpg",
+      "publishedAt": "2023-05-01T17:00:00Z",
+      "content": "It all began one day when I was playing Fortnite with my wife and my son. I was using a Samsung Galaxy Z Fold 4 (opens in new tab) with my favorite mobile controller (opens in new tab) — the GameSir … [+9907 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+      "title": "The Pixel Fold and Pixel Tablet aren't launching in India, and I'm pissed",
+      "description": "Google won't launch the Pixel Fold and Pixel Tablet in India, once again relegating the country to a second-tier market that doesn't get the brand's best products.",
+      "url": "https://www.androidcentral.com/phones/pixel-fold-pixel-tablet-not-launching-in-india-and-im-pissed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yuZPNwG5nQKYDVFY8gkpp9-1200-80.jpg",
+      "publishedAt": "2023-05-10T19:27:50Z",
+      "content": "Google just unveiled its latest hardware products, and the Pixel 7a builds on the strengths of its predecessor and is in contention for one of the best mid-range phones of the year. The Pixel Tablet … [+6910 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "derrek.lee@futurenet.com (Derrek Lee)",
+      "title": "Google I/O 2023: All of the biggest announcements",
+      "description": "Now that Google I/O 2023 has commenced, we want to highlight some of the biggest announcements from the event.",
+      "url": "https://www.androidcentral.com/apps-software/google-io-2023-biggest-announcements",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZsYKPGLnJqNa5nuMSE4po4-1200-80.jpg",
+      "publishedAt": "2023-05-11T02:29:19Z",
+      "content": "Google I/O 2023 kicked off today, and there were quite a lot of exciting announcements at the event. While the keynote touched on just certain topics, there was still plenty to talk about, and many a… [+8106 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+      "title": "Google Pixel Fold vs. Samsung Galaxy Z Fold 4: Is there a clear winner?",
+      "description": "With the Pixel Fold on the way, we break down whether you should try out Google's first foldable phone or whether the Galaxy Z Fold 4 is the better overall choice.",
+      "url": "https://www.androidcentral.com/phones/google-pixel-fold-vs-samsung-galaxy-z-fold-4",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8AkwE69E7prhqCYmyc695T-1200-80.jpg",
+      "publishedAt": "2023-05-10T19:44:27Z",
+      "content": "After a couple of years of dealing with rumors that would appear out of nowhere, Google has finally and officially unveiled its first foldable phone. This came as quite a surprise, given that the com… [+12984 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Julia Kollewe",
+      "title": "Apple co-founder warns AI could make it harder to spot scams",
+      "description": "Steve Wozniak says content created with artificial intelligence should be labelled and calls for regulationApple co-founder Steve Wozniak has warned that artificial intelligence could be used by “bad actors” and make it harder to spot scams and misinformation…",
+      "url": "https://www.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence",
+      "urlToImage": "https://i.guim.co.uk/img/media/891cd476653ebbb0db34a7281c20657a1310f661/0_165_2600_1561/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc6c475792846167b9cff71452d5d522",
+      "publishedAt": "2023-05-09T07:21:04Z",
+      "content": "Apple co-founder Steve Wozniak has warned that artificial intelligence could be used by bad actors and make it harder to spot scams and misinformation.\r\nWozniak, who was one of Apples co-founders wit… [+7595 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Lucy Mangan",
+      "title": "Silo review – this rich dystopian drama is absolutely thrilling",
+      "description": "Apple TV+’s adaptation of a novel about a post-apocalyptic, bunker-dwelling civilisation provides an utterly fantastic story. It builds its world meticulously – and packs plenty of punchSilo, Apple TV+’s 10-part adaptation of the first book in Hugh Howey’s be…",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/05/silo-review-this-rich-dystopian-drama-is-absolutely-thrilling",
+      "urlToImage": "https://i.guim.co.uk/img/media/34018f171fa41b4b11721c4963947f9748553cef/323_0_3195_1918/master/3195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=2c5ffdb2085de554d0c651ee9d6bdcb7",
+      "publishedAt": "2023-05-05T08:20:21Z",
+      "content": "Silo, Apple TV+s 10-part adaptation of the first book in Hugh Howeys bestselling trilogy of the same name, is not for the claustrophobic. The world-building is meticulous, and that world is almost en… [+4369 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Josh Taylor",
+      "title": "Google rolls out passkey technology in ‘beginning of the end’ for passwords",
+      "description": "Apple and Microsoft also collaborated on the technology which allows authentication with fingerprint ID, facial ID or a pin Google is moving one step closer to ditching passwords, rolling out its passkey technology to Google accounts from Thursday.The passkey…",
+      "url": "https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords",
+      "urlToImage": "https://i.guim.co.uk/img/media/b83c8dcabc4176b4363310a2e9fb90aa992ac4d9/0_550_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38e53358d004639dfd5fb32d18d882ab",
+      "publishedAt": "2023-05-04T07:28:57Z",
+      "content": "Google is moving one step closer to ditching passwords, rolling out its passkey technology to Google accounts from Thursday.\r\nThe passkey is designed to replace passwords entirely by allowing authent… [+3076 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Presented by Max Rushden with Barry Glendenning, Barney Ronay and Jordan Jarrett-Bryan. Produced by Joel Grove and our executive producer is Danielle Stephens.",
+      "title": "Manchester City back on top and have we seen peak Spurs? – Football Weekly",
+      "description": "Max Rushden is joined by Barry Glendenning, Barney Ronay and Jordan Jarrett-Bryan to discuss all the top-flight dramaRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and…",
+      "url": "https://www.theguardian.com/football/audio/2023/may/01/premier-league-liverpool-tottenham-manchester-city-leeds-football-weekly-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/18c941344d44683853f81d9c30690acd713532b3/0_0_2860_1716/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd63079aa3624f6d5c27c7f7a2b6b29c",
+      "publishedAt": "2023-05-01T13:02:43Z",
+      "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nToday: despite a brilliant Spurs comeback they s… [+541 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Samuel Gibbs Consumer technology editor",
+      "title": "Google launches Pixel Fold, Tablet and 7a Android devices",
+      "description": "Firm’s first folding phone announced with cheaper smartphone and tablet smart display hybridGoogle has announced a range of new Pixel mobile gadgets, including its first folding phone and an Android tablet that doubles as a smart display when docked and charg…",
+      "url": "https://www.theguardian.com/technology/2023/may/10/google-launches-pixel-fold-tablet-and-7a-android-devices",
+      "urlToImage": "https://i.guim.co.uk/img/media/673d985d8c04f60a289df0ed1ed963cde635f86c/1972_1082_6341_3806/master/6341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f3289c64b0dc605ad9d27f78f213459",
+      "publishedAt": "2023-05-10T19:00:05Z",
+      "content": "Google has announced a range of new Pixel mobile gadgets, including its first folding phone and an Android tablet that doubles as a smart display when docked and charging at home.\r\nUnveiled as part o… [+2943 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Presented by Max Rushden with Barry Glendenning, Jonathan Wilson and Troy Townsend. Produced by Joel Grove and our executive producer is Danielle Stephens.",
+      "title": "Top-four tension, Cambridge joy and Notts County drama – Football Weekly",
+      "description": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson and Troy Townsend to discuss a busy weekend in the top flight and beyondRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebo…",
+      "url": "https://www.theguardian.com/football/audio/2023/may/08/arsenal-newcastle-manchester-united-west-ham-efl-national-league-football-weekly-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/aaf604b95e2ec097d6b826c3b0b6db44544e4ffb/0_0_4943_2966/master/4943.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b0e0070025817292f75b0c64c7a5a0e",
+      "publishedAt": "2023-05-08T11:32:00Z",
+      "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nToday: Arsenal regroup to beat Newcastle 2-0 at … [+681 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Presented by Max Rushden with Barry Glendenning, Simon Burnton and Lars Sivertsen. Produced by Joel Grove with Arif Islam and our executive producer is Christian Bennett.",
+      "title": "Haaland hitting higher targets and Watford woes – Football Weekly Extra",
+      "description": "Max Rushden is joined by Barry Glendenning, Simon Burnton and Lars Sivertsen to discuss Erling Haaland’s goalscoring exploits and much moreRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on…",
+      "url": "https://www.theguardian.com/football/audio/2023/may/04/premier-league-manchester-city-haaland-watford-liverpool-football-weekly-extra-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/43864393e92ce1271db2b7d90a65cdbd8ce482f3/625_844_6407_3844/master/6407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6f475d9c599c090ada0dff12b55095e",
+      "publishedAt": "2023-05-04T12:31:28Z",
+      "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nToday: Manchester Citys fifth title in six years… [+1314 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Lucy Mangan",
+      "title": "City on Fire review – like An Inspector Calls on steroids",
+      "description": "There’s a rock-solid plot to this New York-set thriller about a college student’s shooting. It’s full of great performances that plunge you into the city’s myriad possibilities for good – and evilJosh Schwartz and Stephanie Savage, the creators of Apple TV+’s…",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/12/city-on-fire-review-like-an-inspector-calls-on-steroids",
+      "urlToImage": "https://i.guim.co.uk/img/media/f47c6f230d1626046f44828f81a2d2015a494d1e/18_584_8604_5162/master/8604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=90bfb082850d3d4922a3c37a0cee9524",
+      "publishedAt": "2023-05-12T05:00:45Z",
+      "content": "Josh Schwartz and Stephanie Savage, the creators of Apple TV+s new drama, City on Fire, have applied brutal but almost certainly correct methods to adapting their source material. They have ruthlessl… [+9709 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Samuel Gibbs Consumer technology editor",
+      "title": "OnePlus Pad review: a new cheaper Android iPad challenger",
+      "description": "New tablet offers high-end screen and specs for a mid-range price but is held back by softwareThe first Android tablet from OnePlus sticks to the firm’s tradition of offering high-end technology at slightly cheaper prices – but will that be enough to beat the…",
+      "url": "https://www.theguardian.com/technology/2023/may/04/oneplus-pad-review-a-new-cheaper-android-ipad-challenger",
+      "urlToImage": "https://i.guim.co.uk/img/media/5f25c42910703621e802dbc3f9ceba108b4b6da1/323_343_5033_3019/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=86959f1ecb2e65e1adde8f4f728fc6d1",
+      "publishedAt": "2023-05-04T06:00:43Z",
+      "content": "The first Android tablet from OnePlus sticks to the firms tradition of offering high-end technology at slightly cheaper prices but will that be enough to beat the market-leading iPad?\r\nThe OnePlus Pa… [+6531 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kiran Stacey and Tom Burgis",
+      "title": "Visitors to Commons forced to hand over leaflets on press freedom in Hong Kong",
+      "description": "Officials claim material about Jimmy Lai constituted political slogans but David Davis calls heavy-handed approach ‘completely daft’<ul><li>UK politics live – latest updates</li></ul>Parliamentary security guards confiscated reports and leaflets about Hong Ko…",
+      "url": "https://www.theguardian.com/politics/2023/may/01/visitors-to-commons-forced-to-hand-over-leaflets-on-press-freedom-in-hong-kong",
+      "urlToImage": "https://i.guim.co.uk/img/media/1bf63aaf1b8abbcb6ea224b2c475d241c220927b/0_470_768_461/master/768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d833d4a11c17b4ac0af5888ec0fba7d",
+      "publishedAt": "2023-05-01T10:46:44Z",
+      "content": "Parliamentary security guards confiscated reports and leaflets about Hong Kong from attenders of an event in Westminster in case they caused political upset, the Guardian has learned, in a move conde… [+4313 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Verna Yu",
+      "title": "Hong Kong political cartoonist axed after 40 years following criticism from officials",
+      "description": "Wong Kei-kwan, known as Zunzi, says it was a ‘mutual decision’ after the Ming Pao newspaper ended his columnA decades-old political cartoon column has been scrapped by a respected Hong Kong newspaper after it faced a barrage of criticism from officials, in a …",
+      "url": "https://www.theguardian.com/world/2023/may/12/hong-kong-political-cartoonist-axed-after-40-years-following-criticism-from-officials",
+      "urlToImage": "https://i.guim.co.uk/img/media/82e29be0e140b1a686ef99d147f52a45e4a3fd58/0_511_4032_2420/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a20b028741e08052259c7f1d6969da1",
+      "publishedAt": "2023-05-12T01:21:18Z",
+      "content": "A decades-old political cartoon column has been scrapped by a respected Hong Kong newspaper after it faced a barrage of criticism from officials, in a move widely seen as a further blow to the citys … [+4071 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Helen Davidson in Taipei",
+      "title": "Hong Kong passes law to limit work of foreign lawyers amid ongoing Jimmy Lai case",
+      "description": "Amended legislation gives chief executive power to veto any foreign lawyer working on cases brought under national security lawHong Kong’s government has passed a law that allows authorities to ban foreign lawyers from working on national security cases, comp…",
+      "url": "https://www.theguardian.com/world/2023/may/11/hong-kong-passes-law-to-limit-work-of-foreign-lawyers-amid-ongoing-jimmy-lai-case",
+      "urlToImage": "https://i.guim.co.uk/img/media/3f637c53b00050cb969abb075b87a9942d67fcde/0_11_1548_929/master/1548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98b8f99e1ce4ac08b581f48df2268d05",
+      "publishedAt": "2023-05-11T05:26:20Z",
+      "content": "Hong Kongs government has passed a law that allows authorities to ban foreign lawyers from working on national security cases, completing a months-long effort to block a UK lawyer from defending medi… [+2668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Melissa Thompson",
+      "title": "Melissa Thompson’s tamarind chicken lettuce cups – recipe",
+      "description": "Many flavours and cultures collide in these excitingly spiced lettuce wraps stuffed with tangy minced chicken, aubergine and a quick pickleThis is a fresh dish with a lot of body, with the tamarind bringing smoky, sweet and tangy notes. Tamarind is a brillian…",
+      "url": "https://www.theguardian.com/food/2023/may/06/chicken-aubergine-tamarind-lettuce-cups-recipe-quick-pickled-vegetables-melissa-thompson",
+      "urlToImage": "https://i.guim.co.uk/img/media/d976d2ed3619ce7070e76e365053a9c9495594fe/0_1316_4333_2600/master/4333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c22fac96d6b91bfac250594772d44040",
+      "publishedAt": "2023-05-06T09:00:04Z",
+      "content": "This is a fresh dish with a lot of body, with the tamarind bringing smoky, sweet and tangy notes. Tamarind is a brilliant ingredient that can be taken in any direction sweet or savoury. You can buy i… [+3095 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian music",
+      "title": "Country star Jimmie Allen accused of sexual assault by former manager",
+      "description": "The Grammy-nominated musician has been accused of a ‘torrential cycle’ of abuse and harassment which he deniesThe country star Jimmie Allen is being sued by his former manager for sexual assault.The woman known as “Jane Doe” has alleged that while working for…",
+      "url": "https://www.theguardian.com/music/2023/may/11/jimmie-allen-sexual-assault-accusation-country-star",
+      "urlToImage": "https://i.guim.co.uk/img/media/159ffe4fa6902c7433d0eb816a53c260a1fed1ff/326_138_1906_1144/master/1906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08ff1cb9df409b1fe4171fa8cd3576a9",
+      "publishedAt": "2023-05-11T20:07:25Z",
+      "content": "The country star Jimmie Allen is being sued by his former manager for sexual assault.\r\nThe woman known as Jane Doe has alleged that while working for the singer, he repeatedly raped and harassed her … [+2647 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Hollie Richardson, Ali Catterall, Jack Seale and Simon Wardell",
+      "title": "TV tonight: a grisly report on the rise of leopard attacks on humans",
+      "description": "How urban expansion in India is threatening wild animals in their natural habitat. Plus: cop capers continue in Black Ops. Here’s what to watch this evening Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/12/tv-tonight-a-grisly-report-on-the-rise-of-leopard-attacks-on-humans",
+      "urlToImage": "https://i.guim.co.uk/img/media/2269961f7a03eb5e3d6aaf8a41a8450ae85e011e/0_369_4214_2529/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d070db8f35794b1dbaddf3bbe8490002",
+      "publishedAt": "2023-05-12T05:20:45Z",
+      "content": "Unreported World\r\n7.30pm, Channel 4\r\nRecently, there has been a rise in leopard attacks on humans in India, according to this grisly report. Journalist Mandakini Gahlot investigates, speaking to a tr… [+4258 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Anna Fazackerley",
+      "title": "‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees",
+      "description": "Entire board resigns over actions of academic publisher whose profit margins outstrip even Google and AmazonMore than 40 leading scientists have resigned en masse from the editorial board of a top science journal in protest at what they describe as the “greed…",
+      "url": "https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees",
+      "urlToImage": "https://i.guim.co.uk/img/media/2177ffd2ecf2f36f54c4f4ba0119300ca08b2585/0_73_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a8a5297b7204fd81f5bff5abdcf856d1",
+      "publishedAt": "2023-05-07T07:00:16Z",
+      "content": "More than 40 leading scientists have resigned en masse from the editorial board of a top science journal in protest at what they describe as the greed of publishing giant Elsevier.\r\nThe entire academ… [+4604 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Jess Cartner-Morley",
+      "title": "Give your wardrobe the sartorial hit of dark chocolate it craves | Jess Cartner-Morley",
+      "description": "The world needed cheery bright colours in hard times. But now it’s time for a classier, Succession-style paletteMight it be time to wean ourselves off dopamine dressing? Are we ready to graduate from the picture-book cheerfulness of rainbow colours, and slip …",
+      "url": "https://www.theguardian.com/fashion/2023/may/12/give-your-wardrobe-the-sartorial-hit-of-dark-chocolate-it-craves",
+      "urlToImage": "https://i.guim.co.uk/img/media/8db3f2ba5c893a22fcead1c256f2e53e806d1116/0_152_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba2d86ffe0d4fad32560e1908df53403",
+      "publishedAt": "2023-05-12T13:00:55Z",
+      "content": "Might it be time to wean ourselves off dopamine dressing? Are we ready to graduate from the picture-book cheerfulness of rainbow colours, and slip into something more sophisticated. What do you think… [+3647 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Mark Lawson",
+      "title": "The Traitors to The Crown: who will win the 2023 TV Baftas – and who deserves to?",
+      "description": "From Claudia Winkleman’s cunning new hit to Paddington Bear’s tea with the Queen, the biggest night in British TV is nearly here … and it’s all to play for. Here’s who should (and who will) winThe 2023 Bafta TV awards will be presented on Sunday (BBC One from…",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/11/the-traitors-to-the-crown-who-will-win-the-2023-tv-baftas-and-who-deserves-to",
+      "urlToImage": "https://i.guim.co.uk/img/media/7e40a6db1e46c9ad5a863f8008d77d972944427d/0_387_3504_2102/master/3504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ceb4cad1e3ed4364aebf7cbed751ab4",
+      "publishedAt": "2023-05-11T12:01:48Z",
+      "content": "The 2023 Bafta TV awards will be presented on Sunday (BBC One from 7pm) with The Responder, This Is Going to Hurt, Slow Horses, Somewhere Boy and Bad Sisters among the most nominated contenders. As a… [+11908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Joel Golby",
+      "title": "Heartwarming, hilarious but apparently hidden away, Jury Duty deserves justice",
+      "description": "Ask anyone if they’ve seen Amazon’s fake trial mockumentary where everyone is acting except for one poor juror, and you’ll unfairly be met with blank stares<ul><li>Don’t get the Guide delivered to your inbox? Sign up here</li></ul>The puzzle is this: why is n…",
+      "url": "https://www.theguardian.com/culture/2023/may/12/the-guide-jury-duty-amazon-freevee",
+      "urlToImage": "https://i.guim.co.uk/img/media/4842c172feb3efdf9fc3536be739d95d702f3214/150_0_3656_2194/master/3656.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f6dc3cfb00d8b3af91475e2475f3ab3",
+      "publishedAt": "2023-05-12T10:45:51Z",
+      "content": "The puzzle is this: why is nobody watching one of the best shows of the year? I have been trying to figure this out ever since Jury Duty dropped in April, on Amazon Freevee (its like Prime but its fr… [+15222 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Sarah Banks",
+      "title": "The wild side of north-east England: wonderful walks, beautiful beaches and cool campsites and perfect pubs",
+      "description": "The author of a new guide to Northumberland, the North York Moors and Pennines shares her favourite places to visit and things to doSimonside Hills, Northumberland Continue reading...",
+      "url": "https://www.theguardian.com/travel/2023/may/08/wild-side-of-north-east-england-the-best-pubs-walks-and-hidden-beaches",
+      "urlToImage": "https://i.guim.co.uk/img/media/42f7b535121f19e1eb376dc96bf50266c9b0477d/0_0_6569_3944/master/6569.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df0b2b6dd62a4d599ae1ad50abf7ffd5",
+      "publishedAt": "2023-05-08T07:00:43Z",
+      "content": "Best walks with views\r\nSimonside Hills, Northumberland\r\nPhotograph: Sarah Banks\r\nThis justifiably popular summit has panoramic views of the Cheviots and the Northumberland coastline. The land is stee… [+7130 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Yotam Ottolenghi",
+      "title": "Yotam Ottolenghi’s party finger food: cheesy potato filo cigars, herby devilled eggs and fried crumpets – recipes",
+      "description": "A street party called desire: three snacks with a twist to crown your celebrationsI often think of the phrase “fit for a king” when it comes to food, not least because it implies grand gestures and elaborate plates. For me, even something as humble as a boile…",
+      "url": "https://www.theguardian.com/food/2023/may/06/yotam-ottolenghi-party-finger-food-recipes-cheesy-potato-filo-cigars-herby-devilled-eggs-fried-crumpets",
+      "urlToImage": "https://i.guim.co.uk/img/media/b03e72fd79b4f0b104e17c5d62e9c223ec68e343/0_1344_3409_2045/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca1cf418fd44e6a61774c201f2895980",
+      "publishedAt": "2023-05-06T07:00:02Z",
+      "content": "I often think of the phrase fit for a king when it comes to food, not least because it implies grand gestures and elaborate plates. For me, even something as humble as a boiled egg, or the combinatio… [+7164 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Stuart Jeffries",
+      "title": "Black Knight review – imagine your Ocado driver is Mad Max and you’re not far off",
+      "description": "In this Korean post-apocalypse hellscape, an elite cabal control the riff-raff with shoot-to-kill goons – and only a devilishly handsome delivery dude can save us!First the bad news. Forty years ago a comet crashed into Earth wiping out 99% of humanity – and …",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/12/black-knight-review-imagine-your-ocado-driver-is-mad-max-and-youre-not-far-off",
+      "urlToImage": "https://i.guim.co.uk/img/media/6015cff06ca70270465d9524672931544ccf0688/0_191_2970_1782/master/2970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a6032dba10bd70c58eee2237ad7f9873",
+      "publishedAt": "2023-05-12T09:00:50Z",
+      "content": "First the bad news. Forty years ago a comet crashed into Earth wiping out 99% of humanity and turning the Korean peninsula into a desert. Did Kim Jong-un and your favourite K-pop heroes survive? We h… [+9627 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Simon Wardell",
+      "title": "Still: A Michael J Fox Movie to Matilda: the seven best films to watch on TV this week",
+      "description": "The Back to the Future star is funny, engaging and incredibly candid about living with Parkinson’s. Plus the classic tale of the girl who moves things with her mind Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/05/still-a-michael-j-fox-movie-to-matilda-the-seven-best-films-to-watch-on-tv-this-week",
+      "urlToImage": "https://i.guim.co.uk/img/media/3f97b280e60677ca5fa9ea350a9bb63f32a626b1/120_0_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67b533c05e0727c856cc490977180d05",
+      "publishedAt": "2023-05-05T08:00:17Z",
+      "content": "Pick of the week\r\nStill: A Michael J Fox Movie\r\nThis isnt a comeback film for the Back to the Future star, but in this documentary Michael J Fox is every bit as engaging and funny as in his acting ro… [+9747 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Phil Harrison",
+      "title": "High Desert to The Family Stallone: the seven best shows to stream this week",
+      "description": "Patricia Arquette is a drug dealer turned PI in a funny, dark and excellent new comedy, while Sylvester and his clan open up in a glossy new reality show Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/may/12/high-desert-to-the-family-stallone-the-seven-best-shows-to-stream-this-week",
+      "urlToImage": "https://i.guim.co.uk/img/media/f73c50614e2536884b9cc60c88af6d008afe99be/0_53_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=305ab85be387f0d05a311da34a64a458",
+      "publishedAt": "2023-05-12T06:00:47Z",
+      "content": "Pick of the week\r\nHigh Desert\r\nA comedy thats funny enough to let plenty of darkness in, High Desert stars Patricia Arquette as Peggy Newman, a drug dealer/addict who decides on a mid-life career cha… [+9672 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Rowena Mason Whitehall editor",
+      "title": "Stop acting tough with officials, former Tory politician tells ministers",
+      "description": "After Dominic Raab bullying scandal, David Gauke tells civil service union conference confrontational approach is not effective<ul><li>UK politics live – latest updates</li></ul>Ministers need to stop trying to look tough by being confrontational and trying t…",
+      "url": "https://www.theguardian.com/society/2023/may/11/stop-acting-tough-with-officials-former-tory-politician-tells-ministers",
+      "urlToImage": "https://i.guim.co.uk/img/media/e2e8801404ec57511b4f9ce90abcdcf71f059540/0_138_3404_2043/master/3404.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd47a4e1278bd6b5dc3afde150742f5c",
+      "publishedAt": "2023-05-11T12:27:10Z",
+      "content": "Ministers need to stop trying to look tough by being confrontational and trying to establish dominance in meetings with officials, the former Tory cabinet minister David Gauke has said after the Domi… [+9091 chars]"
+    }
+  ]
+}

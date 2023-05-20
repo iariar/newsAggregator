@@ -1,0 +1,42 @@
+.article-item {
+  display: flex;
+  border-radius: 10px;
+  /* border: 2px solid black; */
+  width: 28%;
+  display: inline-block;
+  margin-bottom: 20px;
+  font-family: "Poppins";
+  background-color: rgba(255, 255, 255, 0.8);
+  overflow: hidden;
+  /* height: 50%; */
+}
+
+.article-item p {
+  margin: 0;
+  transition: transform 0.3s ease;
+}
+
+.article-item  {
+  font-family: inherit;
+}
+
+.image-container {
+  overflow: hidden;
+  flex: 1;
+  border-radius: 8px 8px 0 0;
+  width: 100%; /* Set the width to 50% */
+}
+.image-container img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease; /* Added transition for smooth zoom effect */
+}
+
+.image-container img:hover {
+  transform: scale(1.1); /* Zoom in effect on hover */
+}
+
+.content-container {
+  padding: 10px;
+}

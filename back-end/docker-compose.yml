@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  # Our Postgres Database for laravel to connect to
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: username
+      POSTGRES_PASSWORD: my_password
+      POSTGRES_DB: laravel_database
+    ports:
+      - 35000:5432
+  adminer:
+    container_name: adminer
+    image: adminer:latest
+    restart: always
+    depends_on:
+      - db
+    ports:
+      - 8080:8080
