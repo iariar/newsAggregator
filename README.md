@@ -16,6 +16,8 @@ To start the project:
     
     - run `cd back-end`
     
+    - run docker-compose up -d
+    
     - run `composer install`
     
     - run `php artisan migrate`
